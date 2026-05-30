@@ -24,7 +24,7 @@ A backend-heavy order management system designed to showcase senior engineering,
 A Python-based stock signal and backtesting application for testing trading strategies and visualizing performance.
 
 - Tech: Python, Streamlit, data analysis, backtesting
-- Live App: https://trend-backtester.streamlit.app/
+- Live App: https://trendstrategybacktester.streamlit.app/
 - GitHub: https://github.com/bnguyen07/TrendStrategyBacktester
 
 ## Core Skills
